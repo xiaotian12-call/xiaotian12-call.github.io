@@ -1,3 +1,3 @@
 # MyWeb.github.io
 ## 访问地址：
-https://xiaotian12-call.github.io/xiaotian12-call/
+https://xiaotian12-call.github.io/
